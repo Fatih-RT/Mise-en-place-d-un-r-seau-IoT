@@ -1,6 +1,6 @@
 # 🧤 Projet Minecraft Gant Connecté 🎮
 
-![Bannière du projet](images/minecraft.jpg)
+![Bannière du projet](images/minecraft.jpg) 
 
 ## 🎯 Objectifs du Projet
 
