@@ -31,7 +31,6 @@ Le projet utilise :
 minecraft-gant-projet/
 │
 ├── README.md                # Description du projet et des objectifs
-├── LICENSE                  # Licence du projet
 │
 ├── arduino/
 │   ├── bouton.ino           # Code pour gérer les boutons sur ESP8266
